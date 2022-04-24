@@ -1,5 +1,5 @@
-# NCCBUDDY
-Social Media Clone Developed In Django
+# NCC BUDDY
+A social media site for NCC Cadets as 6th Sem DBMS Project
 ## Getting Started
 This project is basic social media clone with features like 
 User authentication, 
